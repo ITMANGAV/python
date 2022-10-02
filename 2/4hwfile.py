@@ -11,4 +11,5 @@ for j in position:
     else:
         print(j.strip())
         sum+=rez[int(j)]
+position.closed
 print(f'{rez} сумма= {sum}')
